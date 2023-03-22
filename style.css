@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+	box-sizing:border-box;
+}
+  
+  .container {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  input {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-bottom: 10px;
+  }
+  

@@ -1,1 +1,2 @@
 this is to understand stash
+From this line it will build the jenkins continuous build
